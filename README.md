@@ -8,7 +8,8 @@ Based upon the prompt given to us, I feel like I have a pretty good idea of how 
 
 I am going to sort all of the data based upon the user first, and then have all of the other data contained within that user.
 
-*updated organization
+*updated organization*
+
 Dictionary of users(list) ----> user = Dictionary of days -----> each day is a dictionary of times -----> each times is a list of the server and activity
 
 The use of lists allows for them to be easily sorted as well.
