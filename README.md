@@ -19,9 +19,13 @@ I think I'm going to define 4 functions, one for each of the insights that have 
 Each of them will scrap and process the user log data based upon each of the given conditions. Since the data is organized by user and by specific days, it should not be that hard to access the right data.
 
 The four functions are:
+
 -sus(user)
+
 -irr(user)
+
 -glitch(user)
+
 -domains()
 
 One for each of the four types of analysis
